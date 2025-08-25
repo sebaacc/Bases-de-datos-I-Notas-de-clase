@@ -54,11 +54,15 @@ Con el Sistema SQL server **Express** no tendremos problemas de licenciamiento, 
 Vemos una BD ya hecha mediante un DER. Es importante ver y tratar de entender como funciona antes de trabajar con la misma.   
 Cuando vemos el tipo decimal(9,2), significa que siete dígitos serán enteros y los últimos dos serán decimales.  
 ```SQL
-Create
-Alter
-Drop
+CREATE
+ALTER
+DROP
 ```
-
+La ingeniería directa es crear un sistema u objeto a partir de un conjunto de un criterio, y la ingeniería inversa, por lo contrario, trabaja hacia atrás descomponiendo algo ya existente para entender su estructura, con el objetivo de documentarlo, mejorarlo o replicarlo. 
+.ldf log de transacción  
+.mdf   
+Estos pertenecen a la tabla primary.
+![creando bd](imagenes/bdtipo.png)
 ## Clase 4
 *20/08/25*  
 
