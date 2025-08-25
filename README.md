@@ -51,6 +51,14 @@ Con el Sistema SQL server **Express** no tendremos problemas de licenciamiento, 
 ## Clase 3
 *20/08/25*  
 
+Vemos una BD ya hecha mediante un DER. Es importante ver y tratar de entender como funciona antes de trabajar con la misma.   
+Cuando vemos el tipo decimal(9,2), significa que siete dígitos serán enteros y los últimos dos serán decimales.  
+```SQL
+Create
+Alter
+Drop
+```
+
 ## Clase 4
 *20/08/25*  
 
