@@ -3,7 +3,7 @@ Notas de clase en Base de Datos 2025.
 
 Alumno: Sebastián Alejo Markoja  
 Profe: Esteban Lopez Belcuore
-
+Recursos: [Drive](https://drive.google.com/drive/folders/1D8mNIVbynsHAhIJQSJVH3l292CKEWuv1)
 ## Clase 1
 *18/08/25*  
 DVA es el que controla la base de datos.  
@@ -79,3 +79,4 @@ Constraint (restricciones):
 - FK (Foreign  Key)
 - CK (Check Key)
 - UK (Unique Key)
+![creando constraints](imagenes/creacinConstraints.png)  
