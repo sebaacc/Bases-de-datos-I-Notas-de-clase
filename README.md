@@ -64,7 +64,18 @@ La ingeniería directa es crear un sistema u objeto a partir de un conjunto de u
 Estos pertenecen a la tabla primary.
 ![creando bd](imagenes/bdtipo.png)
 ## Clase 4
-*20/08/25*  
+*25/08/25*  
 
 ## Clase 5
-*20/08/25*  
+*27/08/25*  
+Asistente de importación y exportación de SQL Server. Vimos como poner datos de un excel en una bd.  
+
+Diagramador de base de datos, para que funcione es ir a Tienda => propiedades => archivos => propietario => ponerle sa en vez del nombre del pc. Así ya se podra crear relaciones entre tablas en el diagramador.
+## Clase 6
+*1/09/25*  
+
+Constraint (restricciones):  
+- PK (Primary Key)
+- FK (Foreign  Key)
+- CK (Check Key)
+- UK (Unique Key)
