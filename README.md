@@ -80,3 +80,10 @@ Constraint (restricciones):
 - CK (Check Key)
 - UK (Unique Key)
 ![creando constraints](imagenes/creacinConstraints.png)  
+  
+El uso de LIKE en una consulta, no es eficiente. Hay que tener en cuenta que su impacto es mucho en el tiempo. Tiene que buscar algo dentro de uan cadena de caracteres, por ello hay que tener en cuenta esto en una base de datos grande.  
+![claseOperadores](imagenes/operadores.png) (<=, >= / y los lógicos AND y OR / Operador LIKE (Cadena)).  
+EJ:  
+- LIKE '%CAMPERA%'
+- LIKE '%CAMPERA'
+- LIKE 'CAMPERA%'  
