@@ -1,0 +1,23 @@
+/*
+
+SELECT
+*
+FROM
+T_ARTICULOS
+WHERE
+Nombre
+LIKE '%REMERA%'
+AND
+PrecioMenor > 50;
+
+*/
+
+SELECT
+*
+FROM
+T_ARTICULOS
+WHERE
+Nombre
+LIKE '%CAMPERA%'
+AND
+PrecioMayor > PrecioMenor;

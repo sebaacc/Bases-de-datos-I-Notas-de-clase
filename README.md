@@ -65,7 +65,10 @@ Estos pertenecen a la tabla primary.
 ![creando bd](imagenes/bdtipo.png)
 ## Clase 4
 *25/08/25*  
-
+Propiedades de la base de datos, en General, Intercalación => ahí dice el idioma de la BD y si es sensible o no a las mayúscula.  
+CI = Case Insensitive  
+CS = Case Sensitive  
+AS = Accent Sensitive    
 ## Clase 5
 *27/08/25*  
 Asistente de importación y exportación de SQL Server. Vimos como poner datos de un excel en una bd.  
@@ -78,11 +81,12 @@ Constraint (restricciones):
 - PK (Primary Key)
 - FK (Foreign  Key)
 - CK (Check Key)
-- UK (Unique Key)
+- UK (Unique Key)  
 ![creando constraints](imagenes/creacinConstraints.png)  
   
 El uso de LIKE en una consulta, no es eficiente. Hay que tener en cuenta que su impacto es mucho en el tiempo. Tiene que buscar algo dentro de uan cadena de caracteres, por ello hay que tener en cuenta esto en una base de datos grande.  
-![claseOperadores](imagenes/operadores.png) (<=, >= / y los lógicos AND y OR / Operador LIKE (Cadena)).  
+![claseOperadores](imagenes/operadores.png)  
+(<=, >= / y los lógicos AND y OR / Operador LIKE (Cadena)).  
 EJ:  
 - LIKE '%CAMPERA%'
 - LIKE '%CAMPERA'
